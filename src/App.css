@@ -94,7 +94,7 @@
   .nav1 {
     width: 100%;
     display: grid;
-    grid-template-columns: auto 90%;
+    grid-template-columns: auto 80%;
     margin-left: 10%;
     margin-right: 20%;
   }
